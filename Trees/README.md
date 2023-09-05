@@ -1,1 +1,1 @@
-This is a tre drawing assignment
+This is a tree drawing assignment
